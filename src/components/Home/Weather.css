@@ -1,0 +1,17 @@
+
+header{
+  background: gainsboro;
+  padding: 10px;
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.bodyCard {
+  min-height: calc(100vh - 110px);
+}
+
+.weather-chart{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size:20px 
+}
