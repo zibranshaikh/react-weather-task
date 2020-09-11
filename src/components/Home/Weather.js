@@ -10,7 +10,6 @@ import {
 	categories,
 	chartData,
 	labels,
-	marker,
 	tooltip 
 } from '../../constants/Data'
 
